@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
         RequestBody requestBody = RequestBody.create(jsonBody.toString(),JSON);
         Request request = new Request.Builder()
                 .url("https://api.openai.com/v1/images/generations")
-                .header("Authorization","Bearer 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")
+                .header("Authorization","Bearer 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")
                 .post(requestBody)
                 .build();
 
