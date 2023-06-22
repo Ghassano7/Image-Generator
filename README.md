@@ -1,7 +1,8 @@
 Image Generator app using OPEN AI API.
 Enter any text you want and generate image from that text.
 
-![Screenshot_20230319_172535](image](https://github.com/Ghassano7/Image-Generator/assets/39637137/e1fd0469-7382-4be9-9d1f-c2071c72a895)
+![image](https://github.com/Ghassano7/Image-Generator/assets/39637137/e1fd0469-7382-4be9-9d1f-c2071c72a895)
+
 
 
 How to use:
